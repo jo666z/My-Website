@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MarketPredictor AI Download</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>MarketPredictor AI</h1>
+    <p class="subtitle">Download the revolutionary AI app that predicts the financial market!</p>
+  </header>
+  <main>
+    <section class="info">
+      <h2>About MarketPredictor AI</h2>
+      <p>
+        MarketPredictor AI leverages cutting-edge artificial intelligence to analyze market trends and provide clients with unique predictive insights. Download now and stay ahead in the fast-moving world of finance!
+      </p>
+      <ul>
+        <li>Real-time market predictions</li>
+        <li>Easy-to-use interface</li>
+        <li>Secure and private</li>
+      </ul>
+    </section>
+    <section class="download">
+      <h2>Download the App</h2>
+      <a class="download-btn" href="marketpredictor-ai.zip" download>
+        Download MarketPredictor AI
+      </a>
+      <p class="small">(Windows version, v1.0.0) • <a href="#">Need help?</a></p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 MarketPredictor AI. All rights reserved.
+  </footer>
+</body>
+</html>
